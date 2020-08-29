@@ -1,4 +1,4 @@
-# redis-test
+# redis-test-nuxt
 
 ## Build Setup
 
